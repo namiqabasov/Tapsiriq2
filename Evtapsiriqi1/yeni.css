@@ -1,0 +1,12 @@
+.nm{
+    width: 100px;
+    float: left;
+    
+}
+label::after{content: " :";}
+
+.mm{
+    width: 100px;
+    font-style: inherit;
+    display: inline;
+}
